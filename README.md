@@ -32,7 +32,7 @@ A personal portfolio website developed to present my technical skills, education
 
 **A Responsive Online Shopping Store**
 
-I S Market is a modern e-commerce storefront developed to demonstrate product catalog management, interactive shopping cart functionality and dynamic price calculations.
+R & W Market is a modern e-commerce storefront developed to demonstrate product catalog management, interactive shopping cart functionality and dynamic price calculations.
 
 The application integrates FakeStoreAPI for product data and includes additional illustrative product listings to demonstrate a broader shopping experience across multiple departments.
 
