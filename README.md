@@ -28,7 +28,7 @@ A personal portfolio website developed to present my technical skills, education
 
 ---
 
-### 02. I S Market – E-Commerce Product Catalog & Interactive Shopping Cart
+### 02. R & W Market – E-Commerce Product Catalog & Interactive Shopping Cart
 
 **A Responsive Online Shopping Store**
 
